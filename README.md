@@ -47,7 +47,7 @@ Function `f `takes the input `x` and spits out a single output ( `f(x)` ).
 
 Can you guess what this function does to the value of `x`?
 
-![](http://circuits-assets.generalassemb.ly/prod/asset/4416/Slide-5-Funnel-Chart.svg)
+![](https://circuits-assets.generalassemb.ly/prod/asset/4416/Slide-5-Funnel-Chart.svg)
 
 If you guessed "multiplies `x` by 2," you're right!
 
@@ -68,7 +68,7 @@ Here's an example of what a function can do:
 If you've watched enough Matt Damon movies, you may have noticed that the government often spends a lot of time and money to go save his characters.
 
 
-![maaaaatt daaaamon](http://circuits-assets.generalassemb.ly/prod/asset/5031/matt-damon.jpg)
+![maaaaatt daaaamon](https://circuits-assets.generalassemb.ly/prod/asset/5031/matt-damon.jpg)
 
 
 
@@ -161,7 +161,7 @@ Our goal is to craft our programs in as few lines of code as possible, while sti
 #### Why use functions - Summary
 Let's review the three main reasons that functions are created:
 
-![](http://circuits-assets.generalassemb.ly/prod/asset/5016/Slide-17-Chart.svg)
+![](https://circuits-assets.generalassemb.ly/prod/asset/5016/Slide-17-Chart.svg)
 
 
 
@@ -182,14 +182,14 @@ A **function expression** defines a function by producing a value that's stored 
 
 This is similar to the way an expression produces a value that's stored in a variable — hence the name.
 
-![](http://circuits-assets.generalassemb.ly/prod/asset/4421/Slide-19.svg)
+![](https://circuits-assets.generalassemb.ly/prod/asset/4421/Slide-19.svg)
 
 
 Have you ever tried to move forward to the next page of an online form, only to be greeted by an alert that says, "Please fill out all the required fields"?
 
 This kind of code can be placed in a function, and this function can be called anytime the user hasn't filled out a field on any form on the site. Let's code for this popup alert using a function expression:
 
-![](http://circuits-assets.generalassemb.ly/prod/asset/5049/code_block_1.png)
+![](https://circuits-assets.generalassemb.ly/prod/asset/5049/code_block_1.png)
 
 
 Let's take a look at the function in more detail:
@@ -208,7 +208,7 @@ Now that we've learned about function expressions, let's discuss naming conventi
 
 You may have noticed how we capitalize names in JavaScript using the camelCase style.
 
-<img src="http://circuits-assets.generalassemb.ly/prod/asset/4427/Slide-25-Camel.svg" width="350px">
+![](https://circuits-assets.generalassemb.ly/prod/asset/4427/Slide-25-Camel.svg)
 
 Let's take a quick look at some good and bad examples of function names, and what can cause them to break down:
 
@@ -295,7 +295,7 @@ It will also burden our program with repeated code, which we want to avoid.
 
 Remember, keep it DRY! (Don't Repeat Yourself).
 
-![](http://circuits-assets.generalassemb.ly/prod/asset/4430/Slide-6-Mansion.svg)
+![](https://circuits-assets.generalassemb.ly/prod/asset/4430/Slide-6-Mansion.svg)
 
 Wouldn't it be nice if we had some way of providing the area function with the information it needs to calculate the area for any given space?
 
