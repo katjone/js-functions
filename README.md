@@ -457,7 +457,7 @@ Remember the `mattDamon()` function?
 
 Let's take a look at how we could rewrite that function as a **Function declaration** by changing the way we declare the function (the bottom example).
 
-![](http://circuits-assets.generalassemb.ly/prod/asset/5030/Slide-5-var-function-Matt-Damon.svg)
+![](https://circuits-assets.generalassemb.ly/prod/asset/5030/Slide-5-var-function-Matt-Damon.svg)
 
 Both functions do the exact same thing; they're just written differently. We'll take a look at the difference between the two in just a few minutes.
 
@@ -468,7 +468,7 @@ As you can see, a function declaration always has:
 *   A descriptive name that refers to the function (this can be anything you want, as long as it's in camelCase).
 *   An optional list of parameters surrounded by parentheses.
 
-<img src="http://circuits-assets.generalassemb.ly/prod/asset/4535/Slide-9-Function-Declaration-New.svg" width="400px">
+![](https://circuits-assets.generalassemb.ly/prod/asset/4535/Slide-9-Function-Declaration-New.svg)
 
 #### Hoisting
 Right now, let's dive deeper into the differences between function declarations and function expressions. While both methods are similar, one of their main differences is the concept of **hoisting**.
@@ -522,7 +522,7 @@ When a variable is declared **outside a function**, it is referred to as a **glo
 
 Let's take a look:
 
-![](http://circuits-assets.generalassemb.ly/prod/asset/5015/Slide-7-Annotated.svg)
+![](https://circuits-assets.generalassemb.ly/prod/asset/5015/Slide-7-Annotated.svg)
 
 #### Local Variables
 Conversely, if a variable is declared inside a function, it is local to that function and therefore referred to as a **local variable**.
@@ -558,8 +558,7 @@ Global variables, on the other hand, are stored in the processor's memory for as
 
 As a result, global variables can be inefficient, because they will continue to take up memory space even when they are not actually in use.
 
-
-<img src="http://circuits-assets.generalassemb.ly/prod/asset/4457/Slide-13-Global-vs-Local.svg" width="500px">
+![](https://circuits-assets.generalassemb.ly/prod/asset/4457/Slide-13-Global-vs-Local.svg)
 
 <br>
 
