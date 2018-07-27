@@ -308,16 +308,16 @@ In this lesson, we'll take a look at how we can do just that by using **paramete
 Let's take a look at how we can provide our `area` function with a width and a length for each room, so we won't need to create a separate function every time we want to measure the dimensions of a new room.
 
 
-![](http://circuits-assets.generalassemb.ly/prod/asset/4432/Slide-9-Parameter.svg)
+![](https://circuits-assets.generalassemb.ly/prod/asset/4432/Slide-9-Parameter.svg)
 
 
-![](http://circuits-assets.generalassemb.ly/prod/asset/4433/Slide-10-Width-Length.svg)
+![](https://circuits-assets.generalassemb.ly/prod/asset/4433/Slide-10-Width-Length.svg)
 
 
-![](http://circuits-assets.generalassemb.ly/prod/asset/4435/Slide-11-Arguments.svg)
+![](https://circuits-assets.generalassemb.ly/prod/asset/4435/Slide-11-Arguments.svg)
 
 
-![](http://circuits-assets.generalassemb.ly/prod/asset/4436/Slide-12-Arguments.svg)
+![](https://circuits-assets.generalassemb.ly/prod/asset/4436/Slide-12-Arguments.svg)
 
 To write functions with more than one parameter, use a comma-separated list:
 
