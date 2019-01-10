@@ -790,7 +790,7 @@ Work through as many of these exercises as you can within the next 10 mins.
  	// => "line the on back Hans Put"
 	```
 
-
+Now convert all the above 3 funtions into Arrow Functions.
 
 <a name="conclusion"></a>
 ## Conclusion 
