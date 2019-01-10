@@ -681,6 +681,21 @@ sayHello();
 Notice how the variable `brother` is now defined from _within the function_?  
 This means it is now a local variable and can only be accessed from within that function.
 
+##### `let` is actually about scoping
+Variables in JavaScript are **scoped** - or track values - either globally or within an entire function. Since `var` in JavaScript is scoped to the nearest parent function, it can be pretty unpredictable, right?
+
+```javascript
+function varTest() {
+  var x = 1;
+  if (true) {
+    var x = 2;  // same variable!
+    console.log(x);  // Prints 2
+  }
+  console.log(x);  // This is going to print 2!
+}
+varTest();
+```
+
 #### Memory Usage
 
 Another difference between global and local variables is the use of memory.
