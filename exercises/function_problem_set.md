@@ -70,7 +70,7 @@ It should look something like this:
 raisePower(4, 3)
 => 64
 
-
+new stuff
 
 
 ###letterCount(word)
